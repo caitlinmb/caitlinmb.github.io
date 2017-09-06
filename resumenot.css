@@ -1,0 +1,37 @@
+#header {
+    height: 60px;
+    width: 97.5%;
+    background-color:#e7d3a2;
+    z-index:1;
+    position:fixed;
+    text-align:center;
+    color: 	#485c6b;
+    border-radius:5px;
+    
+}
+
+.left {
+    height:400px;
+    width:10%;
+    background-color:#87817e;
+    float:left;
+    border-radius:5px;
+}
+
+.right{
+    height:400px;
+    width:88%;
+    background-color:#f4ecd0;
+    float:right;
+    border-radius:5px;
+
+}
+
+#footer {
+    height:50px;
+    width:97.5%
+    background-color:#87817e;
+    clear:both;
+    border-radius:5px;
+    text-align:center;
+}
